@@ -115,7 +115,6 @@ Here’s a simplified version of our project’s logical workflow, which is repr
 
 ## 📷 Sample Visualizations
 
-> *(Add screenshots or upload images to your repo and embed like below)*
 
 ```markdown
 ![Revenue Leakage Boxplot](./images/revenue_leakage_boxplot.png)
