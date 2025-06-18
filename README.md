@@ -116,8 +116,3 @@ Here’s a simplified version of our project’s logical workflow, which is repr
 ## 📷 Sample Visualizations
 
 
-```markdown
-![Revenue Leakage Boxplot](./images/revenue_leakage_boxplot.png)
-![Occupancy vs Rating](./images/occupancy_vs_rating.png) 
-
-hello RTM
